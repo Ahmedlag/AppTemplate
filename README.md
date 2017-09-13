@@ -1,0 +1,2 @@
+# AppTemplate
+Hybrid App Template
